@@ -1,0 +1,5 @@
+database_username = 'db_user'
+database_password = 'db_password'
+database_ip       = 'db_ip or db_url'
+database_name     = 'db_name'
+table_name        = 'db_table_name'
