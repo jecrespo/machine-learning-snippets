@@ -1,4 +1,4 @@
-#Copiara a un df de pandas, una tabla MYSQL con los nombres de campos igual que las tabla
+#Copiar a un df de pandas desde una tabla MYSQL con los nombres de campos igual que las tabla
 
 import mysql.connector as my_dbapi
 import pandas as pd
